@@ -1,0 +1,10 @@
+1001,Il richiamo di Cthulhu,1928-02-26,562,H.P. Lovecraft,Horror
+1002,Nel terrore notturno,1936-11-02,160,H.P. Lovecraft,Horror
+1003,Le montagne della follia,1936-03-08,150,H.P. Lovecraft,Horror
+1004,Il colore venuto dallo spazio,1927-05-08,40,H.P. Lovecraft,Horror
+1005,La maschera di Innsmouth,1936-06-11,100,H.P. Lovecraft,Horror
+1006,L'orrore di Dunwich,1937-12-12,116,H.P. Lovecraft,Horror
+1007,La cosa sulla soglia ,1937-09-01,30,H.P. Lovecraft,Horror
+2001,forbes,2024-02-22,30,SETTIMANALE
+2002,millionaire,2024-02-22,30,MENSILE
+2003,sole24ore,2024-02-22,30,SETTIMANALE
