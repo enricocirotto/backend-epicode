@@ -140,7 +140,7 @@ public class Main {
         System.out.println("ricerca prodotti per autore");
         List<Catalogo>  findProdottoFromAutore=catalogoDao.findByAutore("H.P. Lovecraft");
         if (findProdottoFromAutore.isEmpty()){
-            System.out.println("nessun risultato trovato");
+            System.out.println("nessun risultto trovato");
         }else {
             findProdottoFromAutore.forEach(System.out::println);
         }
